@@ -1,8 +1,5 @@
 ReadMe Test technique : CRUD de News en Laravel
 
-Mustapha Ramadan
-Email: mustapha.ramadan04@gmail.com
-
 J'ai réalisé le test technique de création d'une API pour la gerre des News. 
 J'ai utilisé Laravel version 10, et j'ai testé l'API à l'aide du programme PostMan.
 Et j'ai réalisé ce qui m'était demandé dans le cahier de charge.
@@ -67,5 +64,3 @@ php artisan route:list --path=api
     DELETE    api/news/{id} ................................ Api\NewsController@destroy 
     GET|HEAD  api/user .....................................
 
-
-Enfin, Merci de vous intéresser à ma candidature.
